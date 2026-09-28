@@ -1,0 +1,65 @@
+{
+  "N": {
+    "N": 1.0,
+    "P": -0.231,
+    "K": -0.141,
+    "temperature": 0.027,
+    "humidity": 0.191,
+    "ph": 0.097,
+    "rainfall": 0.059
+  },
+  "P": {
+    "N": -0.231,
+    "P": 1.0,
+    "K": 0.736,
+    "temperature": -0.128,
+    "humidity": -0.119,
+    "ph": -0.138,
+    "rainfall": -0.064
+  },
+  "K": {
+    "N": -0.141,
+    "P": 0.736,
+    "K": 1.0,
+    "temperature": -0.16,
+    "humidity": 0.191,
+    "ph": -0.17,
+    "rainfall": -0.053
+  },
+  "temperature": {
+    "N": 0.027,
+    "P": -0.128,
+    "K": -0.16,
+    "temperature": 1.0,
+    "humidity": 0.205,
+    "ph": -0.018,
+    "rainfall": -0.03
+  },
+  "humidity": {
+    "N": 0.191,
+    "P": -0.119,
+    "K": 0.191,
+    "temperature": 0.205,
+    "humidity": 1.0,
+    "ph": -0.008,
+    "rainfall": 0.094
+  },
+  "ph": {
+    "N": 0.097,
+    "P": -0.138,
+    "K": -0.17,
+    "temperature": -0.018,
+    "humidity": -0.008,
+    "ph": 1.0,
+    "rainfall": -0.109
+  },
+  "rainfall": {
+    "N": 0.059,
+    "P": -0.064,
+    "K": -0.053,
+    "temperature": -0.03,
+    "humidity": 0.094,
+    "ph": -0.109,
+    "rainfall": 1.0
+  }
+}
